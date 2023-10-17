@@ -10,6 +10,7 @@ public class Main {
         }
         System.out.println();
 
+
         //Задача 2
         System.out.println("Задача 2");
         int temperature = 10;
